@@ -1,4 +1,4 @@
-<h1 align="center" fill=`#0969DA`>Hello, I'm Bruno Schmidtke</h1>
+<h1 align="center" fill="#4285f4">Hello, I'm Bruno Schmidtke</h1>
 
 <h2 align="center">Web Developer</h2>
 
