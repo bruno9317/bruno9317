@@ -2,6 +2,7 @@
 
 <h2 align="center">Web Developer</h2>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno9317)](https://github.com/bruno9317/github-readme-stats)
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={bruno9317}" /> -->
 
 <!--
