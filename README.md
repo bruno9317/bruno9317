@@ -5,7 +5,7 @@
   <li>I'm based in Rio de Janeiro, Brasil</li>
   <li>Currently studying back-end</li>
 </ul>
-<h2>Skills</h2>
+<h2 align="center">Skills</h2>
 
 <h3 align="center">Languages</h3>
 <div align="center">
