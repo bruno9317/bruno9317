@@ -5,8 +5,8 @@
   <li>I'm based in Rio de Janeiro, Brasil</li>
   <li>Currently studying back-end on <a href="https://www.betrybe.com/">Trybe</a></li>
   <li>Always looking forward to learn more</li>
-<!--   <li></li> -->
-<!--   <li></li> -->
+  <li>linkedin: https://www.linkedin.com/in/bruno-schmidtke/</li>
+  <li>email: brunobaptista9317@gmail.com</li>
 <!--   <li></li> -->
 </ul>
 <h2 align="center">Skills</h2>
