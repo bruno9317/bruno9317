@@ -3,7 +3,7 @@
 <h2 align="center">Front-End Developer</h2>
 <ul>
   <li>I'm based in Rio de Janeiro, Brasil</li>
-  <li>Currently studying back-end on <a href="https://www.betrybe.com/">Trybe</a></li>
+  <li>Currently studying back-end on <a href="https://www.betrybe.com/" target="_blank">Trybe</a></li>
   <li>Always looking forward to learn more</li>
   <li>linkedin: https://www.linkedin.com/in/bruno-schmidtke/</li>
   <li>email: brunobaptista9317@gmail.com</li>
