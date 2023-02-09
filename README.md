@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Bruno Schmidtke</h1>
 
 <h2 align="center">Front-End Developer</h2>
-<p align="center">Hello, my name is Bruno, a front-end devoloper based in Rio de Janeiro, currently studying to become a full-stack developer </p>
+<p align="center">Hello, my name is Bruno, a front-end developer based in Rio de Janeiro, currently studying to become a full-stack developer </p>
 
 <!-- <ul>
 <li>Front-end developer</li>
