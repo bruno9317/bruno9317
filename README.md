@@ -2,7 +2,6 @@
 
 <h2 align="center">Web Developer</h2>
 <br></br>
-<br></br>
 
 <h3 align="center">Technology</h3>
 <div align="center">
