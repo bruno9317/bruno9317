@@ -3,13 +3,6 @@
 <h2 align="center">Front-End Developer</h2>
 <h4 align="center">Hello, my name is Bruno, a front-end developer based in Rio de Janeiro, currently studying to become a full-stack developer </h4>
 
-<!-- <ul>
-<li>Front-end developer</li>
-<li>Currently learning back-end</li>
-<li>Based in Rio de Janeiro, Brasil</li>
-<!-- <li></li> -->
-<!-- </ul> --> -->
-
 <h2>Skills</h2>
 
 <h3>Languages</h3>
