@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Bruno Schmidtke</h1>
 
-## Web Developer
+<h2 align="center">Web Developer</h2>
 
 <!--
 **bruno9317/bruno9317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
