@@ -2,6 +2,8 @@
 
 <h2 align="center">Web Developer</h2>
 
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={bruno9317}&theme={merko}
+
 <!--
 **bruno9317/bruno9317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
