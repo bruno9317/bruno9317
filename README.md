@@ -2,7 +2,7 @@
 
 <h2 align="center">Web Developer</h2>
 
-![image]({[BadgeURLHere](https://github-readme-stats.vercel.app/api/top-langs/?username={bruno9317})})
+![image]({(https://github-readme-stats.vercel.app/api/top-langs/?username={bruno9317})})
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={bruno9317}" /> -->
 
