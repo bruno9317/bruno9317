@@ -3,10 +3,10 @@
 <h2 align="center">Front-End Developer</h2>
 
 <ul>
-<li>Nome</li>
-<li>Telefone</li>
-<li>Casa</li>
-<li>Estado</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 </ul>
 
 <h2>Skills</h2>
