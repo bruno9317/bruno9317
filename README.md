@@ -36,6 +36,8 @@
 <br></br>
 <br></br>
 
+<h2 align="center">GitHub Stats</h2>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno9317&theme=tokyonight&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=bruno9317&theme=tokyonight" />
