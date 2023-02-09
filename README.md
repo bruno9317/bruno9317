@@ -3,7 +3,7 @@
 <h2 align="center">Web Developer</h2>
 
 <h3 align="center">Technology</h3>
-<div align="center" margin-botton="20px">
+<div align="center" margin-top="80px">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
