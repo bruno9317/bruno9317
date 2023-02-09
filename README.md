@@ -4,7 +4,14 @@
 
 <h3 align="center">Technology</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<!--   <img src="" /> -->
+<!--   <img src="" /> -->
+<!--   <img src="" /> -->
+<!--   <img src="" /> -->
+<!--   <img src="" /> -->
+<!--   <img src="" /> -->
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno9317&theme=tokyonight)](https://github.com/bruno9317/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno9317&theme=tokyonight)](https://github.com/bruno9317/github-readme-stats)
