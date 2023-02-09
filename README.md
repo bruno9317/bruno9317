@@ -2,6 +2,13 @@
 
 <h2 align="center">Front-End Developer</h2>
 
+<ul>
+<li>Nome</li>
+<li>Telefone</li>
+<li>Casa</li>
+<li>Estado</li>
+</ul>
+
 <h2>Skills</h2>
 
 <h3>Languages</h3>
