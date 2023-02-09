@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Bruno Schmidtke</h1>
 
 <h2 align="center">Front-End Developer</h2>
-<br></br>
 
 <h2>Skills</h2>
 
