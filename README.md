@@ -8,7 +8,7 @@
 <li>Currently learning back-end</li>
 <li>Based in Rio de Janeiro, Brasil</li>
 <!-- <li></li> -->
-</ul> -->
+<!-- </ul> --> -->
 
 <h2>Skills</h2>
 
