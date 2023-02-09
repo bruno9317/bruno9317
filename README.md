@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img width="10" height="10" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
 <!--   <img src="" /> -->
 <!--   <img src="" /> -->
 <!--   <img src="" /> -->
