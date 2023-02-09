@@ -6,7 +6,7 @@
   <li>Currently studying back-end on <a href="https://www.betrybe.com/" target="_blank">Trybe</a></li>
   <li>Always looking forward to learn more</li>
   <li>linkedin: https://www.linkedin.com/in/bruno-schmidtke/</li>
-  <li>email: brunobaptista9317@gmail.com</li>
+  <li>Email: brunobaptista9317@gmail.com</li>
 <!--   <li></li> -->
 </ul>
 <h2 align="center">Skills</h2>
