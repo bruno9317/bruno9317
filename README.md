@@ -3,7 +3,7 @@
 <h2 align="center">Front-End Developer</h2>
 <ul>
   <li>I'm based in Rio de Janeiro, Brasil</li>
-  <li>Currently studying back-end</li>
+  <li>Currently studying back-end on <a href="[url](https://www.betrybe.com/)">Trybe</a></li>
 </ul>
 <h2 align="center">Skills</h2>
 
