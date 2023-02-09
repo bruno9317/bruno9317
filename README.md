@@ -3,10 +3,10 @@
 <h2 align="center">Front-End Developer</h2>
 
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Front-end developer</li>
+<li>Currently learning back-end</li>
+<li>Based in Rio de Janeiro, Brasil</li>
+<!-- <li></li> -->
 </ul>
 
 <h2>Skills</h2>
