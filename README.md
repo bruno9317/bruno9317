@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Bruno Schmidtke</h1>
+<h1 align="center" color="yellow">Hello, I'm Bruno Schmidtke</h1>
 
 <h2 align="center">Web Developer</h2>
 
